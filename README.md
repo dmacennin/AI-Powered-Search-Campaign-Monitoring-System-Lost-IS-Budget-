@@ -6,7 +6,7 @@ Developed by [Dominic Mac-Ennin, CDMP, PCM®](https://www.linkedin.com/in/domini
 
 This repository is **portfolio documentation only**. It is not source code and it is not a Cloud job. The operator guide, execution script, GAQL, prompts, and decision matrix are withheld.
 
-This system stands alone. It is not an add-on to the keyword research or negative-keyword pipelines.
+This system stands alone. 
 
 ---
 
